@@ -1,4 +1,4 @@
-# Underdog Devs Resource Management Application Deployment Guide
+# UDRM Deployment Guide
 
 *Last Updated: Oct 7, 2022*
 
