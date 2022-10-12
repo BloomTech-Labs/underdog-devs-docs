@@ -1,4 +1,5 @@
 # Underdog Devs Onboarding Guide
+Last Updated: Oct 10, 2022
 
 ## Contents
 - [Introduction](#introduction)
@@ -21,6 +22,7 @@ change.
 If you can't find the information you are looking for here, then [reach out](#communication) and ask!
 
 ## Who to Know
+_As of October 2022_
 - Product Manager - John Dodson
 - Engineering Manager - Ryan Hamblin
 - DS Manager - Robert Sharp

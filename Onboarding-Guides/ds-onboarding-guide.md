@@ -1,4 +1,5 @@
 # Underdog Devs | Data Science Onboarding Guide
+Last Updated: Oct 10, 2022
 
 ## Contents
 - [Introduction](#introduction)
