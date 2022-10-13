@@ -15,7 +15,10 @@ Welcome to the DS section of the Underdog Devs project in Bloomtech Labs!
 While using this guide, you should also view the 
 [official README](https://github.com/BloomTech-Labs/underdog-devs-ds-a/blob/main/README.md) for additional information.
 
-The DS section of the UD project consists of two main components:
+The purpose of the DS section of the UD project is to handle the storage, analytics, and modeling of all data related
+to the project (except authentication data for FE/BE).
+
+It consists of two main components:
 - **MongoDB**
   - The Mongo database is used by all, and should be handled with some amount of care
   - PURPOSE: Store all information not associated with user authentication (profiles, meetings, feedback, etc)
