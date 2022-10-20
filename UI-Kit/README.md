@@ -31,3 +31,11 @@ For the headings, we included three examples: an H1, a H2, and a H3. We also spe
 Here's the buttons page. We added a self-serve table where teammates can grab the button(s) they need by combining the category (one of the four columns) and the state / type (one of the three rows). We also included an explanatory note reminding teammates to add alt text for accessibility when using the small square buttons.
 
 The blue color swatch in the upper left corner of the table is there to signify that the two relevant standard (primary) category buttons (the active and hover / pressed variants) have already been color matched to the exact brighter blue specified on the colors page. They do not need to have their fill color modified, and can be used as-is.
+
+### Grids
+
+<img title="Grids" alt="A Figma page with nine layout grids for devices of various sizes in both portrait and landscape orientations showing broad vertical bars and translucent rectangles, with small orange logos in their upper left corners, and three explanatory notes below them" src="./Grids.png">
+
+Here's the grids page. Although we are currently focused on desktop for MVP, we included portrait and landscape grids for both a small and a large tablet, and two layout options for mobile. We also included three explanatory notes to provide context.
+
+All nine grids follow the same pattern of a narrower black translucent rectangle on the left representing the sidebar with navigation links and the orange UD logo at the top, and a wider gray translucent rectangle on the right representing the main content of the page.
