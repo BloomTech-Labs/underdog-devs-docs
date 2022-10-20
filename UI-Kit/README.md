@@ -23,3 +23,11 @@ Although most standard (small / body) text is expected to be black, we included 
 Here's the typography / fonts page. We reduced the original six fonts for the project to just two: Raleway for headings and Source Sans Pro for regular text. We included examples of both and two helpful explanatory notes to add context.
 
 For the headings, we included three examples: an H1, a H2, and a H3. We also specified the sizes for each in points.
+
+### Buttons
+
+<img title="Buttons" alt="A Figma page with a large white table of five columns and four rows filled with example buttons, with an explanatory note just below the table's bottom right corner" src="./Buttons.png">
+
+Here's the buttons page. We added a self-serve table where teammates can grab the button(s) they need by combining the category (one of the four columns) and the state / type (one of the three rows). We also included an explanatory note reminding teammates to add alt text for accessibility when using the small square buttons.
+
+The blue color swatch in the upper left corner of the table is there to signify that the two relevant standard (primary) category buttons (the active and hover / pressed variants) have already been color matched to the exact brighter blue specified on the colors page. They do not need to have their fill color modified, and can be used as-is.
