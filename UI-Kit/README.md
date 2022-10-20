@@ -15,3 +15,11 @@ We included hexadecimal color codes for easy reference, and usage information fo
 #### Note on Colors for Text
 
 Although most standard (small / body) text is expected to be black, we included usage information for both small and normal text in our descriptions to account for the case of the six colors being used for some other type of text, perhaps as section headers or page titles.
+
+### Typography / Fonts
+
+<img title="Typography-Fonts" alt="A Figma page with various examples of text in two fonts contained within a white box with specified sizes in points and two explanatory notes" src="./Typography-Fonts.png">
+
+Here's the typography / fonts page. We reduced the original six fonts for the project to just two: Raleway for headings and Source Sans Pro for regular text. We included examples of both and two helpful explanatory notes to add context.
+
+For the headings, we included three examples: an H1, a H2, and a H3. We also specified the sizes for each in points.
