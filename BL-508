@@ -1,0 +1,5 @@
+for BL-508 I was requested to implement Multifactor Authentication for users using One Time Passwords.
+While doing my research for how to implement this I discovered that upgrading our Auth0 account to include a Pro MFA Add-on.
+This Pro MFA Add-n would cost $240 per month or $2640 per year.
+I reported this to Paul St-Germain and Ryan Hamblin. After consulting with the share holders they advised me we've decided not to move forward with this functionality due to the cost.
+I was instructed to create a pull request in the Docs Repo with my findings.
