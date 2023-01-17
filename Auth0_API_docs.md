@@ -57,6 +57,8 @@ After Auth0 has been implemented in an application, users who try to login will 
 10. Your application can use the access token to call an Api to access information about the user.
 11. The API responds with requested data.
 
+This process is illustrated in with greater context in the [Authorization code flow](https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow).
+
 ## [How does Auth0 work?](#actions)
 
 The auth0-react.js library can be used to implement authentication and authorization in React apps with Auth0. It provides a custom React hook and other Higher Order Components to help secure apps in fewer lines of code. There are three ways to authenticate with this API:
@@ -67,7 +69,7 @@ By sending your Client ID and Client Secret information in the request JSON body
 _Client ID_
 For public applications that cannot securely hold credentials (SPAs or mobile apps), some endpoints are accessible using only Client ID.
 
-For greater context, check out the [Auth0 Authenticatin API docs website](https://auth0.com/docs/api/authentication#introduction)
+For greater context, check out the [Auth0 Authenticatin API docs website](https://auth0.com/docs/api/authentication#introduction).
 
 ## [Underdog Devs Site Implementation Details](#implementation):
 
